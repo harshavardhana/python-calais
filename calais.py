@@ -1,7 +1,8 @@
 """
 python-calais v.1.4 -- Python interface to the OpenCalais API
 Author: Jordan Dimov (jdimov@mlke.net)
-Last-Update: 01/12/2009
+Modified: Harshavardhana (harsha@harshavardhana.net)
+Last-Update: 03/20/2012
 """
 
 import httplib, urllib, requests, re
